@@ -14,9 +14,9 @@
 - **SQL and Database Management**: Advanced SQL skills developed through [Master SQL for Data Science](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a) and [Advanced SQL for Data Scientists](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a).
 
 ## Projects
-- 📊 [Predictive Analytics Project](https://github.com/username/predictive-analytics-project) - Utilized predictive analytics techniques to analyze customer behavior and sales data, contributing to a 15% increase in marketing ROI.
-- 🏥 [Healthcare Data Analysis Project](https://github.com/username/healthcare-data-analysis) - Performed data cleaning, transformation, and analysis on healthcare datasets, resulting in a new patient care strategy that reduced readmission rates by 20%.
-- 📈 [AI-Driven Market Research Tool](https://github.com/username/ai-market-research-tool) - Developed a tool using AI and machine learning algorithms to analyze and predict market trends, leading to a 25% increase in investment efficiency.
+- 📊 [Predictive Analytics Project](https://github.com/AnasAkhomach/predictive-analytics-project) - Utilized predictive analytics techniques to analyze customer behavior and sales data, contributing to a 15% increase in marketing ROI.
+- 🏥 [Healthcare Data Analysis Project](https://github.com/AnasAkhomach/healthcare-data-analysis) - Performed data cleaning, transformation, and analysis on healthcare datasets, resulting in a new patient care strategy that reduced readmission rates by 20%.
+- 📈 [AI-Driven Market Research Tool](https://github.com/AnasAkhomach/ai-market-research-tool) - Developed a tool using AI and machine learning algorithms to analyze and predict market trends, leading to a 25% increase in investment efficiency.
 
 ## Certifications
 - [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)
