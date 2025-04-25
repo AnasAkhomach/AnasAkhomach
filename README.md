@@ -1,46 +1,85 @@
-# Hello, I'm Anas Akhomach! 👋
+<h1 align="center">Hi there 👋, I'm Anas</h1>
+<h3 align="center">Data Analyst | AI Enthusiast | Educator | Polyglot</h3>
+
+- 🔍 Actively seeking Data Analyst / AI / Data Engineering roles (Germany-based or remote)
+- 🎓 Applied Mathematics graduate | Vocational certification in pedagogy
+- 👨‍💻 Worked in EdTech, ERP training, marketing optimization, and system administration
+- ⚙️ Building AI-powered CV tailoring pipeline for job automation
+- 🎮 Indie game developer — Unity/C# (side passion)
+
+---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/anas_akhomach_205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anas_akhomach_205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anas-akhomach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-akhomach" height="30" width="40" /></a>
+<a href="https://kaggle.com/anasakhomach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anasakhomach" height="30" width="40" /></a>
+</p>
 
 ## About Me
-- 🌍 Located in Tetouan, Morocco
-- 📧 [anasakhoamch205@gmail.com](mailto:anasakhoamch205@gmail.com)
-- 📞 +212600310536
-- 💼 Aspiring Data Scientist with a strong foundation in Data Analysis and IT
-- 🧑‍🏫 7 years of experience teaching high school mathematics
 
-## Skills
-- **Python Programming**: Extensive experience in Python, demonstrated through courses such as [Python for Data Science Essential Training](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a) and [Advanced Python: Practical Database Examples](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a).
-- **Statistical Analysis and Machine Learning**: Understanding of data-driven, statistical algorithms and machine learning techniques from courses like [Machine Learning Foundations: Linear Algebra](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a) and [Data Science Foundations: Fundamentals](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a).
-- **Data Visualization and Business Intelligence**: Proficiency in tools like Tableau and Power BI, supported by [Tableau Essential Training](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a) and [Power BI Essential Training](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a).
-- **SQL and Database Management**: Advanced SQL skills developed through [Master SQL for Data Science](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a) and [Advanced SQL for Data Scientists](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a).
+- Located in Tetouan, Morocco  
+- Email: [anasakhoamch205@gmail.com](mailto:anasakhoamch205@gmail.com)  
+- Aspiring Data Scientist with a strong foundation in Data Analysis, System Administration, and Business Intelligence  
+- 7 years of experience teaching high school mathematics  
+- Currently building AI-powered tools for CV automation and job matching  
+- Fluent in Arabic, English, French, Spanish, and intermediate German (B2)
+
+## Skills & Expertise
+
+- **Python Programming**: Practical experience in Python for data science and automation  
+- **Data Analysis & BI Tools**: Power BI, Tableau, Excel, Google Sheets, Pandas, Matplotlib, Seaborn  
+- **Machine Learning & AI**: scikit-learn, TensorFlow, PyTorch, NLP, predictive modeling  
+- **Database & Backend**: SQL, PostgreSQL, MySQL, MongoDB, Firebase  
+- **Cloud & DevOps**: Docker, Git, GitHub, Linux, Firebase  
+- **Big Data & ETL**: Apache Hadoop, Hive, Kafka  
+- **Automation**: Puppeteer, Selenium, Make.com, n8n
+- **Game Development**: Unity3D, C#, Firebase Analytics  
+- **Data Engineering Tools**: Jupyter, Google Colab, Airflow (basic), APIs  
+- **Document Automation**: LaTeX, Jinja2 templating, Google Docs API
+
+## Certifications (Selected)
+
+- [Python for Data Science Essential Training](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)  
+- [Advanced SQL for Data Scientists](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)  
+- [Power BI Essential Training](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)  
+- [Docker for Data Scientists](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)  
 
 ## Projects
-- 📊 [Predictive Analytics Project](https://github.com/AnasAkhomach/predictive-analytics-project) - Utilized predictive analytics techniques to analyze customer behavior and sales data, contributing to a 15% increase in marketing ROI.
-- 🏥 [Healthcare Data Analysis Project](https://github.com/AnasAkhomach/healthcare-data-analysis) - Performed data cleaning, transformation, and analysis on healthcare datasets, resulting in a new patient care strategy that reduced readmission rates by 20%.
-- 📈 [AI-Driven Market Research Tool](https://github.com/AnasAkhomach/ai-market-research-tool) - Developed a tool using AI and machine learning algorithms to analyze and predict market trends, leading to a 25% increase in investment efficiency.
 
-## Certifications
-- [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)
-- [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)
-- [OpenEDG Python Institute: Programming with Python](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)
-- [Professional Certificate Anaconda: Python for Data Science Professional Certificate](https://www.linkedin.com/learning/certificates/81ef139eeef6e9ad5f77d3c4317c32c8b8dfa993aa85c567679640d12d80d89a)
+- [Predictive Analytics Project](https://github.com/AnasAkhomach/predictive-analytics-project): Improved marketing ROI by 15% through customer segmentation and behavior modeling  
+- [Healthcare Data Analysis](https://github.com/AnasAkhomach/healthcare-analytics): Cleaned and visualized real-world datasets to reveal patient care patterns  
+- [Unity Mobile Game Projects](https://github.com/AnasAkhomach/unity-games): Designed, developed, and published Android games with Firebase-based analytics  
+- [CV Automation Engine (WIP)](https://github.com/AnasAkhomach/cv-automation): Jinja-powered LaTeX CV builder with AI-based job matching logic  
 
-## Education
-- **Professional Qualification in Education (Mathematics)**, CRMEF, Tanger (2015-2016)
-- **Bachelor of Science in Applied Mathematics**, UAE, Tetouan (2010-2015)
-- **Baccalaureate in Mathematics and Engineering**, Fqih Daoud, Mdiq (2007-2010)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/> </a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
+<a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> </a>
+</p>
 
-## Languages
-- **Arabic**: Mother Language
-- **English**: Very Good
-- **French**: Good
-- **German**: Sufficient
-- **Spanish**: Sufficient
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/anas-akhomach)
-- [Personal Blog](https://aidailyuser.com)
-
-## Currently Learning
-- Advanced Machine Learning techniques
-- Deep Learning with TensorFlow
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasakhomach&show_icons=true&locale=en&layout=compact" alt="anasakhomach" /></p>
